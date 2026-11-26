@@ -1,1 +1,0 @@
-# Sistema-de-Gerenciamento-de-Assist-ncia-T-cnica-SGAT-
